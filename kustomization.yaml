@@ -1,0 +1,8 @@
+# Requirement that secret exists
+
+resources:
+  - deployment.yaml
+  - pv.yaml
+  - namespace.yaml
+
+namespace: mysql
