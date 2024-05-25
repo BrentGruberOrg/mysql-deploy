@@ -4,5 +4,6 @@ resources:
   - deployment.yaml
   - pv.yaml
   - namespace.yaml
+  - ingress.yaml
 
 namespace: mysql
